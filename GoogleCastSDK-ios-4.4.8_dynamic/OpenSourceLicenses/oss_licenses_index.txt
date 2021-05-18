@@ -1,0 +1,16 @@
+absl_LICENSE.html/Abseil
+address_sorting_LICENSE.html/address_sorting
+android_nanoproto_LICENSE.html/Nano Protocol Buffers
+ares_LICENSE.html/c-ares
+eigen3_LICENSE.html/Eigen 3
+grpc_LICENSE.html/gRPC
+kissfft_LICENSE.html/Kiss FFT
+libresample_LICENSE.html/libresample
+objective_c_ChromeWebView_LICENSE.html/ChromeWebView
+objective_c_Cronet_LICENSE.html/Cronet
+objective_c_google_toolbox_for_mac_LICENSE.html/Google Toolbox for Mac
+objective_c_gtm_session_fetcher_LICENSE.html/gtm_session_fetcher
+openssl_LICENSE.html/BoringSSL
+protobuf_LICENSE.html/Protocol Buffers
+tcmalloc_LICENSE.html/TCMalloc
+upb_LICENSE.html/upb
